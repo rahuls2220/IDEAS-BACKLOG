@@ -1,0 +1,2686 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+    <FinalDraft DocumentType="Script" Template="No" Version="2">
+      <Content>
+        <Paragraph Type="Transition" Alignment="Left">
+<Text Style="AllCaps">FADE IN:</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">INT. DRISKILL HOTEL SEMINAR ROOM - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">JOE and APRIL burst through the doors into a clean, well-lit seminar room.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Are we in time?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">How could they start without us? We’re the main attraction.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe catches his breath as he leans against the podium at the front of the room.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(looking about the room)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">We are?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Don’t be an idiot. You know we’ve been invited to Austin to discuss script format.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">But why is the room empty?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">April and Joe look out across the room - rows of empty chairs and nary a person in sight.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Okay, okay. Don’t panic.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">She takes three deep breaths. Then April looks at her watch and smiles.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">We’re an hour early. . . . We should rehearse.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Okay, you start. Margins?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Left, 1.5 inches. Right, 1.0 inches. Top, 1.0 inches to the body, 0.5 inches to the number. Bottom, 0.5 to 1.5 inches, depending upon where the page break comes.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Page break?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Right above you. There are rules for breaking a page. Scene headers remain attached to description. A single line of dialogue is pushed to the following page. A long dialogue passage would be split - but I’ll get to that later.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">What about fonts?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Courier, 12-point, 10-pitch. Make sure it’s a non-proportional version of Courier and avoid Courier New unless you want your script to be about 10% longer.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">What about bold-face or italics? Or a cool font like Garamond? I love to jazz up my scripts.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Mostly, you should steer clear of bold and italics. Definitely no Garamond, no Helvetica, no Times Roman. Stick with Courier. That’s the industry standard.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Ah . . . we’re talking about industry standards.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Suddenly, Joe bolts from behind the podium and runs out into:</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">INT. DRISKILL HOTEL HALLWAY - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe glances up and down the hallway, then reaches back to open the door.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(calling)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">April - come on! There’s no one here.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(walking through the door)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">A scene heading. Or a slug line, as I was taught in film school. Always CAPPED. Usually begins with INT. or EXT. What happens if we --</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">EXT. TEXAS CAPITOL BUILDING - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe looks startled as he stands with April before the seat of Texas politics.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">How’d you do that?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">There was a cut - from the hallway to the capitol. What’d you want to do - ride in a cab?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Dialogue margins.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Left, 2.5 inches. Right, 2.5 inches. Of course, you can cheat those a tad.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">So, you have about 3.5 inches for each line of dialogue?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">You’ve got it. And you can sneak out another character or two to the right and no one will hold it against you.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe jots down notes on a 3 x 5 card, studies the card for a moment, then scribbles another note.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(looking up)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">And the position of the character’s name?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">ALL CAPS, and tabbed to about 4.0 to 4.2 inches, depending upon the look you like. Some writers center all characters’ names in dialogue. Personally, I don’t think it matters too much.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">The appearance of the script pages is slightly different in each case, but all are within the norm.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Hey! What happened?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">A page break appeared in the middle of my dialogue. You use        at the bottom of the page to show that the character’s dialogue continues onto the next page. Then add after the character’s name to show that the lines have roots in the previous page.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">But not everyone uses MOREs and CONT’Ds, do they?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">INT. CAPITOL BUILDING - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe stares up into the dome. April examines the portraits of Texas governors on the nearby walls.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Some writers just plan their page breaks so as to avoid them.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(considering)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">What about parentheticals?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Start them about 0.5 inches to the left of the character name tab mark. In our case, that would be at 3.0 inches.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">And what are they for?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">For years, parentheticals were used to express emotion, the manner in which a character spoke her lines. Loudly, passionately, sadly, and so on. That’s frowned upon these days, but some writers still use them for bits of action.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(going up a stairway)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Something like this?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(following him)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Exactly.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">How wide are parentheticals?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Not very - about 1.5 inches. And they should wrap to the following line when they extend beyond that point.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(pointing to the top of the page)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">If you place a parenthetical in the middle of a dialogue passage, it should remain distinct from the dialogue.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">EXT. MISSISSIPPI RIVERBOAT - NIGHT</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">A gambling boat is docked along the riverfront. April and Joe wander about its upper deck.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">I have to ask. What happened to CUT TO:s between scenes.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Some writers still use transitions such as CUT TO: and DISSOLVE TO: between scenes.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Those would introduce a new scene header?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">And typically a different place and/or time. But many writers have dispensed with such transitions, feeling that a new scene header clearly signifies a cut without the need of any additional indicator.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe gazes out at the river.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">How did we reach the Mississippi and when did the sun set?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">If you’d rather . . .</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">EXT. AIRPLANE - SUNSET</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">A jet liner cruises across Texas towards the setting sun.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">INT. AIRPLANE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">A customized interior, outfitted with leather chairs and sofas. April and Joe sip salt-encrusted margaritas.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Is this a flashback?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Or it could be tomorrow or next month?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">TITLE OVER:</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Center">
+<Text Style="">October 25, 2014</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left">
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left">
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">You see, a whole year has passed.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Okay, I didn’t notice. But I thought only DAY and NIGHT were allowed in scene headers.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Production managers might prefer it that way, but many writers use headers as a means of depicting a particular time of day. For instance, SUNRISE, DAWN, LATE AFTERNOON and SUNSET.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">That’s allowed?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">On a writer’s draft, without a doubt.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">A writer’s draft?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Essentially, any draft that hasn’t been paid for. A draft to be submitted to agents, managers, producers, development execs. Or even to a screenplay competition. Those are writer’s drafts. And they should all be FIRST DRAFTs, no matter how many versions the writer has actually written.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">You really think so?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">That’s my recommendation.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">INT. BLUE CAMARO - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">April drives along Austin’s Congress Avenue as Joe rides shotgun.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">You speak any foreign languages?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(in French)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Of course, I do. Why do you ask?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">What about action sequences?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">SUDDENLY, A BLACK MUSTANG</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Whips around a corner, racing quickly towards them.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Punches the accelerator and --</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">THE BLUE CAMARO</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Leaps forward, laying a trail of rubber. The Camaro takes a screeching left, then a quick right to accelerate into --</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">AN ALLEY BURIED IN DEEP SHADOWS</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Where the Camaro all too quickly runs into a dead end, just as --</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">THE BLACK MUSTANG</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Roars into the alley, sealing it shut.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Looks to Joe, fear filling his eyes.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">EXT. DRISKILL HOTEL PORTICO - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">April guides a dazed and confused Joe from the Camaro towards the front doors held open by a smiling VALET.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">That’s one way to write an action scene. It’s a variation on the Bill Goldman style used by many pros.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(coming to)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">But other writers just use standard scene headers and description for action scenes, don’t they?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Many do.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">INT. DRISKILL HOTEL LOBBY - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">A confused Joe speaks into a house phone.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">I thought we were walking together.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL (O.S.)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(filtered)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Well, we were, but I realized a phone call was needed.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">You’re filtered?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Right">
+<Text Style="">INTERCUT WITH:</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">EXT. STATE CAPITOL - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">With the capitol dome looming large behind her, April speaks on her mobile phone.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Only when you hear my voice over the phone. Radio voices and phone calls can be filtered, though it’s a convention that isn’t used as much these days.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Let’s try something easy. What about page numbers?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Number each and every page, though you can start with page two. The numbers should appear in the upper right-hand corner, about 0.5 inches down and 0.75 inches from the right page edge. Those dimensions are not set in stone, but the page numbers should always be placed in the upper right-hand corner.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">INT. DRISKILL HOTEL HALLWAY - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe strolls slowly towards the seminar room.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">You know, that pronouncement almost seemed godlike.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL (V.O.)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">If it were, I probably would have spoken in a voice-over and not on the phone.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe searches the hallway, trying to decide just where this disembodied voice is emanating from.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">What’s a V.O. used for?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL (V.O.)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Often for narration, for a narrator’s voice. In film noir, the protagonists often filled the audience in on their thoughts or story details. Scorsese films are often filled with voice-over, as are many documentaries.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Scene Heading" Alignment="Left">
+<Text Style="AllCaps">INT. DRISKILL HOTEL SEMINAR ROOM - DAY</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe races past April to reach the podium first. April walks casually past the still-empty chairs.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">At the podium Joe gestures with his hands as if he were delivering a major political speech.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">April sneaks up behind him and mimics his gestures - until he notices. Joe spins to confront her.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Why I ought’a . . .</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">I was simply demonstrating the way many writers break descriptions into shorter paragraphs. As opposed to allowing description to fill dense blocks running on for lines.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">That makes for tougher reading, doesn’t it?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">I know studio readers who claim they skip long description passages and only read dialogue.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">But there are pros who write scripts with extended description.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">They do - but that doesn’t mean you should too. When you’re paid to write a screenplay, you just have to satisfy the people writing your checks.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe balances on one leg atop the podium.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">But when you’re like me, you should stick to format. Is that what you’re trying to say?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">You just want to make your script as easy a read as possible.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">Joe jumps down from the podium and hustles out the door just as conference ATTENDEES begin to enter.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">By the way, the first time you introduce a character in description, you CAP his name. And when you break a dialogue passage with description, the standard is to place          next to the speaking character’s name.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">April watches as a number of people find chairs in front of her.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Of course, many writers have dropped          from their repertoire. I mean, it’s obvious that I’m still speaking, isn’t it? And that I never stopped speaking.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE (O.S.)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(shouting from beyond the door)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Hey, April! C’mon! There’s a barbeque at the Governor’s Mansion and a shuttle leaving in two minutes.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Parenthetical" Alignment="Left">
+<Text Style="">(shouting)</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">We haven’t mentioned master scenes.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Action" Alignment="Left">
+<Text Style="">A sheepish Joe slides back into the seminar room, slowly walking to the podium.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">That one I know. No CLOSE UPs, no WIDE SHOTs, mostly no shots of any kind. Just scene headers, description and dialogue. And no scene numbers. Those only belong on shooting scripts.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">It’s okay to sneak in a shot here and there when it’s necessary to highlight a moment or move the action along.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">JOE</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Okay. I can get behind that.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">APRIL</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">And don’t worry. I would never let you miss a meal.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Transition" Alignment="Right">
+<Text Style="AllCaps">FADE OUT.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Shot" Alignment="Center">
+<Text Style="AllCaps">THE END</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Character" Alignment="Left">
+<Text Style="AllCaps">A FEW ADDITIONAL NOTES:</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left">
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">How closely should the format presented on the above pages be followed?</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left">
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Close enough so that your script at least resembles these pages. That said, there is no absolute standard format within the U.S. film industry. The format used by professional screenwriters can vary considerably from writer to writer - but overall the format used by one professional writer generally resembles that used by another professional writer. Nuances may vary – margins slightly different, a dash here or there, parentheticals used this way or that or not at all – but overall, professional screenplays fit within or near these guidelines.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left">
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Clarity is the goal. If your script’s format can be easily read by anyone working in the film industry, then it falls within acceptable standards.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left">
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">Do realize that “shooting scripts,” the form in which scripts are most often available online, in books and at libraries, are not the form in which most professional writers submit their scripts. Submission scripts, sales scripts, first draft scripts – all usually share certain characteristics: no scene numbers, few designated camera shots and sequences generally written in master scenes.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left">
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="Dialogue" Alignment="Left">
+<Text Style="">If you’re confused about which nuances are acceptable and which would push your script into an “out-of-format” category, you would do well to follow these guidelines and eliminate those questionable nuances.</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+      </Content>
+      
+    <HeaderAndFooter FooterFirstPage="No" FooterVisible="Yes" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"><Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text><DynamicLabel Type="Last Revised" /><Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text><Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text><DynamicLabel Type="Page #"/><Tabstops><Tabstop Position="7.25" Type="Right"/></Tabstops><Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text></Paragraph></Header><Footer><Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"><Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text></Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+  
+      
+    <PageLayout
+      BackgroundColor="#FFFFFFFFFFFF"
+      BottomMargin="72"
+      BreakDialogueAndActionAtSentences="Yes"
+      DocumentLeading="Normal"
+      FooterMargin="36"
+      ForegroundColor="#000000000000"
+      HeaderMargin="36"
+      InvisiblesColor="#A0A0A0A0A0A0"
+      TopMargin="72"
+      UsesSmartQuotes="No">
+				  <PageSize Height="11.00" Width="8.50"/>
+				  <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="No" CastListElement="Cast List"/>
+		</PageLayout>
+      
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.60" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+  
+      <ElementSettings Type="Character">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+        <ParagraphSpec Leading="Regular" LeftIndent="3.50" RightIndent="7.25" FirstIndent="0.00" Alignment="Left" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="Dialogue">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+        <ParagraphSpec Leading="Regular" LeftIndent="2.50" RightIndent="5.94" FirstIndent="0.00" Alignment="Left" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="Parenthetical">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+        <ParagraphSpec Leading="Regular" LeftIndent="3.00" RightIndent="5.50" FirstIndent="-0.10" Alignment="Left" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="Action">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+        <ParagraphSpec Leading="Regular" LeftIndent="1.50" RightIndent="7.50" FirstIndent="0.00" Alignment="Left" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="Scene Heading">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+        <ParagraphSpec Leading="Regular" LeftIndent="1.50" RightIndent="7.50" FirstIndent="0.00" Alignment="Left" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="Shot">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+        <ParagraphSpec Leading="Regular" LeftIndent="1.50" RightIndent="7.50" FirstIndent="0.00" Alignment="Left" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="Transition">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+        <ParagraphSpec Leading="Regular" LeftIndent="1.50" RightIndent="7.00" FirstIndent="0.00" Alignment="Right" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="General">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+        <ParagraphSpec Leading="Regular" LeftIndent="1.50" RightIndent="7.50" FirstIndent="0.00" Alignment="Left" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="General" ReturnKey="General" Shortcut="8"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="New Act">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps+Underline"/>
+        <ParagraphSpec Leading="Regular" LeftIndent="1.00" RightIndent="7.57" FirstIndent="0.00" Alignment="Center" SpaceBefore="12" Spacing="1" StartsNewPage="Yes"/>
+        <Behavior PaginateAs="General" ReturnKey="Scene Heading" Shortcut="10"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="End of Act">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps+Underline"/>
+        <ParagraphSpec Leading="Regular" LeftIndent="1.50" RightIndent="7.50" FirstIndent="0.00" Alignment="Center" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="General" ReturnKey="New Act" Shortcut="11"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="Lyrics">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+        <ParagraphSpec Leading="Regular" LeftIndent="2.50" RightIndent="5.94" FirstIndent="0.00" Alignment="Left" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="Dialogue" ReturnKey="Lyrics" Shortcut="12"/>
+      </ElementSettings>
+    
+      <ElementSettings Type="Image">
+        <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+        <ParagraphSpec Leading="Regular" LeftIndent="1.50" RightIndent="7.50" FirstIndent="0.00" Alignment="Left" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+        <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="1129"/>
+      </ElementSettings>
+    
+      <TitlePage>
+        <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+          <Header>
+            <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </Header>
+          <Footer>
+            <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </Footer>
+        </HeaderAndFooter>
+        <Content>
+          <Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text Style="">A Few Days More</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text Style="">written by</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text Style="">April Rider</Text>
+<ScriptNote ID="1" Color="#000000000000" Type="" Name="" DateTime="20240722T122055">
+	<Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="3.88" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+		<Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+	</Paragraph>
+</ScriptNote><ScriptNote ID="1" Color="#000000000000" Type="" Name="" DateTime="20240722T122055">
+	<Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="3.88" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+		<Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+	</Paragraph>
+</ScriptNote><ScriptNote ID="1" Color="#000000000000" Type="" Name="" DateTime="20240722T122055">
+	<Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="3.88" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+		<Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+	</Paragraph>
+</ScriptNote>
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+<ScriptNote ID="1" Color="#000000000000" Type="" Name="" DateTime="20240722T122055">
+	<Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="3.88" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+		<Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+	</Paragraph>
+</ScriptNote><ScriptNote ID="1" Color="#000000000000" Type="" Name="" DateTime="20240722T122055">
+	<Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="3.88" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+		<Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+	</Paragraph>
+</ScriptNote>
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+<ScriptNote ID="1" Color="#000000000000" Type="" Name="" DateTime="20240722T122055">
+	<Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="3.88" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+		<Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+	</Paragraph>
+</ScriptNote>
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text Style="">[NOTE: A typical title page may look like this. For the Academy Nicholl Fellowships competition, you should eliminate all instances of your name, address, phone number and email address from the title page and all other pages of the screenplay. Only the title of the screenplay is needed. It is also permissible to include a U.S. Copyright Office or WGA registration number on the title page (though registration is not a requirement).]</Text>
+<ScriptNote ID="1" Color="#000000000000" Type="" Name="" DateTime="20240722T122055">
+	<Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="3.88" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+		<Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+	</Paragraph>
+</ScriptNote>
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Center" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text Style="">999 George Kaplan St NNW Hitchcock, SD 57000</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text Style="">605-555-5555</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Left" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text Style="">April@nowhere.com</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Right" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text></Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+<Paragraph Type="General" Alignment="Right" LeftIndent="1.00" RightIndent="7.50" FirstIndent="0.00" >
+<Text Style="">[This format guide was originally written by Greg Beal in 1996 and has been revised several times by him since then, most recently in February, 2014.]</Text>
+
+				<UserParagraphData>
+					
+				</UserParagraphData>
+			</Paragraph>
+
+        </Content>
+      </TitlePage>
+      
+    <MoresAndContinueds>
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+      <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+      <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+    </MoresAndContinueds>
+      
+    <SpellCheckIgnoreLists>
+      <IgnoredRanges/>
+      <IgnoredWords/>
+    </SpellCheckIgnoreLists>
+      
+    <ScriptNoteDefinitions Active="1">
+      <ScriptNoteDefinition Color="#000000000000" ID="1" Marker="!" Name="Important"/>
+      <ScriptNoteDefinition Color="#000000000000" ID="2" Marker="?" Name="Information"/>
+      <ScriptNoteDefinition Color="#000000000000" ID="3" Marker="*" Name="Suggestion"/>
+    </ScriptNoteDefinitions>
+      
+    <SmartType>
+      <Characters/>
+      <Extensions>
+        <Extension>(V.O.)</Extension>
+        <Extension>(O.S.)</Extension>
+        <Extension>(O.C.)</Extension>
+        <Extension>(CONT'D)</Extension>
+        <Extension>(SUBTITLE)</Extension>
+      </Extensions>
+      <SceneIntros Separator=". ">
+        <SceneIntro>INT</SceneIntro>
+        <SceneIntro>EXT</SceneIntro>
+        <SceneIntro>I/E</SceneIntro>
+      </SceneIntros>
+      <Locations/>
+      <TimesOfDay Separator=" - ">
+        <TimeOfDay>DAY</TimeOfDay>
+        <TimeOfDay>NIGHT</TimeOfDay>
+        <TimeOfDay>AFTERNOON</TimeOfDay>
+        <TimeOfDay>MORNING</TimeOfDay>
+        <TimeOfDay>EVENING</TimeOfDay>
+        <TimeOfDay>LATER</TimeOfDay>
+        <TimeOfDay>MOMENTS LATER</TimeOfDay>
+        <TimeOfDay>CONTINUOUS</TimeOfDay>
+        <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      </TimesOfDay>
+      <Transitions>
+        <Transition>CUT TO:</Transition>
+        <Transition>FADE IN:</Transition>
+        <Transition>FADE OUT.</Transition>
+        <Transition>FADE TO:</Transition>
+        <Transition>DISSOLVE TO:</Transition>
+        <Transition>BACK TO:</Transition>
+        <Transition>MATCH CUT TO:</Transition>
+        <Transition>JUMP CUT TO:</Transition>
+        <Transition>FADE TO BLACK.</Transition>
+      </Transitions>
+    </SmartType>
+      <LockedPages />
+      <SceneNumberOptions LeftLocation="0.75" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes"><FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/></SceneNumberOptions>
+      
+<Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="1" Mark="*" Name="Blue (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="2" Mark="*" Name="Pink (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="3" Mark="*" Name="Yellow (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="4" Mark="*" Name="Green (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="5" Mark="*" Name="Goldenrod (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="6" Mark="*" Name="Buff (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="7" Mark="*" Name="Salmon (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="8" Mark="*" Name="Cherry (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="9" Mark="*" Name="Tan (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="10" Mark="*" Name="2nd White (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="11" Mark="*" Name="2nd Blue (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="12" Mark="*" Name="2nd Pink (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="14" Mark="*" Name="2nd Green (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="16" Mark="*" Name="2nd Buff (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+	<Revision Color="#00000000FFFF" FullRevision="No" ID="19" Mark="*" Name="2nd Tan (mm/dd/yyyy)" PageColor="#00000000FFFF" Style=""/>
+</Revisions>
+
+      
+		<UserDocumentData>
+      <TaggerDocumentData xmlns="http://www.finaldraft.com/ns/Tagger">
+        
+  <CategoryList count="0">
+  </CategoryList>
+        
+  <ElementList count="0">
+    
+  </ElementList>
+  
+			</TaggerDocumentData>
+		</UserDocumentData>
+	
+      
+    </FinalDraft>
